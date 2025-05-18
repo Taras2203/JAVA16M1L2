@@ -20,3 +20,4 @@ git config --global user.email aaa@gmail.com
 10) git checkout branch name
 11) git checkout commitHash
 12) git merge branchName
+13) cod changes from main branch
