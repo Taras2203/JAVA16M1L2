@@ -7,3 +7,9 @@
 
 git config --global user.name volodymyr 
 git config --global user.email aaa@gmail.com
+
+1) git init -> ініціалізація гіт репо
+2) git status -> відобразити статус файлів в репо
+3) git add filename -> додати файл в stagging area
+4) git commit -m "commit msg" -> зробити коміт
+5) git log -> відобразити лог комітів/репо
