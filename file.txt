@@ -13,3 +13,6 @@ git config --global user.email aaa@gmail.com
 3) git add filename -> додати файл в stagging area
 4) git commit -m "commit msg" -> зробити коміт
 5) git log -> відобразити лог комітів/репо
+6) git remote add origin git@github.com:Taras2203/JAVA16M1L2.git
+7) git remote -v
+8) git push origin main
