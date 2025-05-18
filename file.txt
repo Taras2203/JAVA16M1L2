@@ -21,3 +21,6 @@ git config --global user.email aaa@gmail.com
 11) git checkout commitHash
 12) git merge branchName
 13) cod changes from main branch
+14) some code from branch3 with changes after merge
+15) code changes made during conflict merge
+
